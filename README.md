@@ -35,7 +35,7 @@
 ## Running
 To compile in linux
 ```
-g++ MeshViewer.cpp -lGL -lGLU -lglut -o MeshViewer
+g++ MeshViewer.cpp -lGL -lGLU -lglut -lGLEW -o MeshViewer
 ```
 To run ( any number of objects can be written after executable )
 ```
